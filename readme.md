@@ -1,5 +1,5 @@
 # Pricing Cards Project
 
-Pricing Cards mini-project from my Tailwind course.
+Pricing Cards mini-project
 
 ![Alt text](images/pricing-cards.png)
